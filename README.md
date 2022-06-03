@@ -6,4 +6,4 @@ This system recommends movies that are similar to a particular movie. To achieve
 
 The plot description is also available as the overview feature in the "movies_metadata" dataset.
 
-# The project is not ready, as due to some unknown error, the app is unable to communicate properly with the API.
+# The project is still in testing phase, as due to some unknown error, the app is unable to communicate properly with the API.
