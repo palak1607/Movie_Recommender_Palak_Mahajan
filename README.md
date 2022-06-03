@@ -1,4 +1,3 @@
-# Movie_Recommender_Palak_Mahajan
 # Movie_Recommender_App
 Created an Android app which lets you know and select movies provided with their description/overview, and then recommends similar movies based on following recommendation engine created using python; HTTP calls through Flask API.
 
